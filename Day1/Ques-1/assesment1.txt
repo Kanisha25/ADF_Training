@@ -1,0 +1,2 @@
+hi my name is kanisha. hope u are fine. this is a python practice file where the problem
+statement is to find unique texts in a file.

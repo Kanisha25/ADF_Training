@@ -1,0 +1,12 @@
+The number of words having prefix with To in the input file is 2
+The number of words ending with ing in the input file is 1
+The word that was repeated maximum number of times is
+The palindrome present in the file ['u', 'a', 'a']
+All words into unique list is ['hi', 'my', 'name', 'is', 'kanisha', 'hope', 'u', 'are', 'Today', 'fine', 'this', 'a', 'python', 'practice', 'tomorrow', 'file', 'where', 'the', 'problem', 'statement', 'to', 'find', 'unique', 'texts', 'in', 'To', 'today', 'walking']
+List by using enumeration and counter index is [(0, 'hi'), (1, 'my'), (2, 'name'), (3, 'is'), (4, 'kanisha'), (5, 'hope'), (6, 'u'), (7, 'are'), (8, 'Today'), (9, 'fine'), (10, 'this'), (11, 'is'), (12, 'a'), (13, 'python'), (14, 'practice'), (15, 'tomorrow'), (16, 'file'), (17, 'where'), (18, 'the'), (19, 'problem'), (20, 'statement'), (21, 'is'), (22, 'to'), (23, 'find'), (24, 'unique'), (25, 'texts'), (26, 'in'), (27, 'a'), (28, 'file'), (29, 'To'), (30, 'today'), (31, 'walking')]
+The number of words having prefix with To in the input file is 2
+The number of words ending with ing in the input file is 1
+The word that was repeated maximum number of times is
+The palindrome present in the file ['u', 'a', 'a']
+All words into unique list is ['hi', 'my', 'name', 'is', 'kanisha', 'hope', 'u', 'are', 'Today', 'fine', 'this', 'a', 'python', 'practice', 'tomorrow', 'file', 'where', 'the', 'problem', 'statement', 'to', 'find', 'unique', 'texts', 'in', 'To', 'today', 'walking']
+List by using enumeration and counter index is [(0, 'hi'), (1, 'my'), (2, 'name'), (3, 'is'), (4, 'kanisha'), (5, 'hope'), (6, 'u'), (7, 'are'), (8, 'Today'), (9, 'fine'), (10, 'this'), (11, 'is'), (12, 'a'), (13, 'python'), (14, 'practice'), (15, 'tomorrow'), (16, 'file'), (17, 'where'), (18, 'the'), (19, 'problem'), (20, 'statement'), (21, 'is'), (22, 'to'), (23, 'find'), (24, 'unique'), (25, 'texts'), (26, 'in'), (27, 'a'), (28, 'file'), (29, 'To'), (30, 'today'), (31, 'walking')]
