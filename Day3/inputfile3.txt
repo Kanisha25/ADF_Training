@@ -1,0 +1,3 @@
+hi my name is kanisha. hope u are fine Today. this is a python practice file. where the problem
+statement is to find unique texts in a file. To today tomorrow walking madam
+today is day three.
