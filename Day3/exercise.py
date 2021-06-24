@@ -36,6 +36,8 @@ class B(A):
         self.writefile(count)
         logging.info(count)
 
+
+
     def suffix(self):
         text = self.readfile()
         countsuff = 0
